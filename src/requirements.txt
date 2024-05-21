@@ -1,0 +1,6 @@
+faiss-cpu==1.8.0
+langchain==0.1.1
+langchain-openai==0.0.4
+nltk==3.8.1
+openai==1.8.0
+tiktoken==0.5.2
